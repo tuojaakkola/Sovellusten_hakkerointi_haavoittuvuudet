@@ -1,6 +1,8 @@
-# Hakkerointikurssiraportti
+# Sovellusten hakkerointi haavoittuvuudet
 
-Ohjelma
+
+
+### Hakkerointikurssiraportti (Kurssin alkutehtävä)
 
 Ohjelman tarkoitus on printata teksti "HelloWorld" konsoliin
 
